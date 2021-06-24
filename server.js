@@ -26,7 +26,7 @@ app.post("/", (req, res) => {
         },
         auth: {
             user: 'bibekpradhan840@gmail.com',
-            pass: 'Baklauri@123'
+            pass: '*********'
         }
     })
 
